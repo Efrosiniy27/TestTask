@@ -1,0 +1,12 @@
+<xml>	
+	<building id="1" name="Первый" posx="57.2548" posy="42.269" type="Economy" sumMoney="13" sumFlat="10" />
+	<building id="2" name="Второй" posx="57.5548" posy="42.400" type="Comfort" sumMoney="19" sumFlat="14" />
+	<building id="3" name="Третий" posx="57.8548" posy="42.500" type="Premium" sumMoney="14" sumFlat="11" />
+	<building id="4" name="Четвертый" posx="56.2548" posy="41.900" type="Economy" sumMoney="12" sumFlat="17" />
+	<building id="5" name="Пятый" posx="56.5548" posy="41.600" type="Premium" sumMoney="12" sumFlat="15" />
+	<building id="6" name="Шестой" posx="56.5448" posy="41.500" type="Comfort" sumMoney="17" sumFlat="13" />
+	<building id="7" name="Седьмой" posx="56.2448" posy="41.700" type="Comfort" sumMoney="13" sumFlat="17" />
+	<building id="8" name="Восьмой" posx="56.8448" posy="41.300" type="Economy" sumMoney="11" sumFlat="15" />
+	<building id="9" name="Девятый" posx="56.1448" posy="42.100" type="Comfort" sumMoney="15" sumFlat="13" />
+	<building id="10" name="Десятый" posx="56.9448" posy="41.000" type="Premium" sumMoney="16" sumFlat="15" />		
+</xml>
